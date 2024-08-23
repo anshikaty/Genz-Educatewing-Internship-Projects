@@ -8,6 +8,7 @@ This repository contains 2 machine learning internship projects which are :
      
 * Credit Card Fraud Detection Project 
 * Predictive Maintenace System
+  
 For more details , refer to Reports of both project which is included in this repository.
 
 ## Datasets
